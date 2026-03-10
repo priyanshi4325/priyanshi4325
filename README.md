@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Priyanshi 👋
 
-<!--
-**priyanshi4325/priyanshi4325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer
 
-Here are some ideas to get you started:
+I enjoy building clean UI experiences and connecting them with scalable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+Frontend
+
+* React
+* JavaScript
+* Tailwind CSS
+* HTML / CSS
+
+Backend
+
+* Python
+* Django
+* Django REST Framework
+
+Database
+
+* PostgreSQL
+* SQL
+
+Tools
+
+* Git
+* GitHub
+* Netlify
+* Render
+* Neon
+
+## 🌐 Live Project
+
+**Terminal Portfolio**
+
+Frontend: https://priyanshi-dass.netlify.app
+Backend API: https://portfolio-backend-5zvg.onrender.com
+
+Built using:
+
+* React + Tailwind
+* Django REST API
+* PostgreSQL (Neon)
+* Netlify + Render deployment
+
+## 📫 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/priyanshi-dass/
+Portfolio: https://priyanshi-dass.netlify.app
